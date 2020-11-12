@@ -1,0 +1,83 @@
+[
+    {
+        "key": "sb",
+        "value": "rVKtX0_bP6mv4FyXJjzrU7lZ",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2020-11-12T18:15:58.962Z",
+        "lastAccessed": "2020-11-12T18:15:58.962Z"
+    },
+    {
+        "key": "datr",
+        "value": "rVKtX7P6fUpueCayKjc3U3oL",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2020-11-12T18:15:58.962Z",
+        "lastAccessed": "2020-11-12T18:15:58.962Z"
+    },
+    {
+        "key": "dpr",
+        "value": "2.75",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2020-11-12T18:15:58.962Z",
+        "lastAccessed": "2020-11-12T18:15:58.962Z"
+    },
+    {
+        "key": "m_pixel_ratio",
+        "value": "2.75",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2020-11-12T18:15:58.962Z",
+        "lastAccessed": "2020-11-12T18:15:58.962Z"
+    },
+    {
+        "key": "c_user",
+        "value": "100052784567445",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2020-11-12T18:15:58.962Z",
+        "lastAccessed": "2020-11-12T18:15:58.962Z"
+    },
+    {
+        "key": "xs",
+        "value": "41%3AbSL93krhye3IRg%3A2%3A1605202268%3A109%3A13852",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2020-11-12T18:15:58.962Z",
+        "lastAccessed": "2020-11-12T18:15:58.962Z"
+    },
+    {
+        "key": "fr",
+        "value": "10qsPMSgmHaktvTOl.AWWzJiruhasNP1LUFPVdWOpFz9w.BfrVKt.FX.AAA.0.0.BfrXuh.AWVq_L5crb4",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2020-11-12T18:15:58.962Z",
+        "lastAccessed": "2020-11-12T18:15:58.962Z"
+    },
+    {
+        "key": "wd",
+        "value": "393x730",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2020-11-12T18:15:58.962Z",
+        "lastAccessed": "2020-11-12T18:15:58.962Z"
+    },
+    {
+        "key": "x-referer",
+        "value": "eyJyIjoiL2hvbWUucGhwP3JlZj13aXphcmQmc29mdD1ib29rbWFya3MiLCJoIjoiL2hvbWUucGhwP3JlZj13aXphcmQmc29mdD1ib29rbWFya3MiLCJzIjoibSJ9",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2020-11-12T18:15:58.962Z",
+        "lastAccessed": "2020-11-12T18:15:58.962Z"
+    }
+]
